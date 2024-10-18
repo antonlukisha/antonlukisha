@@ -1,4 +1,37 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Anton+Lukisha+Developer)](https://git.io/typing-svg)
+<style>
+  /* Анимация появления имени */
+  @keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+
+  @keyframes blink-caret {
+    from, to { border-color: transparent; }
+    50% { border-color: black; }
+  }
+
+  .typing-effect {
+    font-family: 'Courier', monospace;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: .15em solid black;
+    width: 0;
+    animation: typing 3s steps(40, end), blink-caret .75s step-end infinite;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+  }
+</style>
+
+<!-- Добавим скрипт для эффектов -->
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const nameElement = document.getElementById('name-effect');
+    setTimeout(() => {
+      nameElement.textContent = "Anton Lukisha"; // Ваше имя
+    }, 500); // Задержка перед началом анимации
+  });
+</script>
 
 <hr>
 <p align="center">
