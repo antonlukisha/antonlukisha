@@ -13,7 +13,7 @@
 <a target="_blank" href="https://t.me/lukanlo"><img src="https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=Telegram&logoColor=white"></img></a>
 <a target="_blank" href="https://stackoverflow.com/users/27875109/anton-lukisha"><img src="https://img.shields.io/badge/-StackOverflow-EF8236?style=for-the-badge&logo=StackOverflow&logoColor=white"></img></a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=antonlukisha" styles="flat-square" color="blue"/>
+  <img src="https://komarev.com/ghpvc/?username=antonlukisha&style=flat-square"/>
   <br>
 </p>    
 
