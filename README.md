@@ -53,9 +53,10 @@
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img title="Django" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img title="Docker" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img title="PyTorch" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-    <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img title="Linux" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+    <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" /></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img title="GNU Bash" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
-    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img title="Flask" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="36" height="36" alt="MySQL" /></a>
+    <a href="https://unity.com/ru" target="_blank" rel="noreferrer"><img title="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="36" height="36" alt="Unity" /></a>
 </p>
 
 
