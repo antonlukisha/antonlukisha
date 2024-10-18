@@ -16,13 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=antonlukisha&color=green&style=flat-square&abbreviated=true"/>
 </p>
 
-<p align="center">
-  <a target="_blank" href="https://vk.com/lukanlo/"><img src="https://img.shields.io/badge/-VK-1E90FF?style=plastic&logo=VK&logoColor=white"></img></a>
-  <a target="_blank" href="mailto:anton.lukisha.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF4500?style=plastic&logo=Gmail&logoColor=white"></img></a>
-  <a target="_blank" href="https://github.com/antonlukisha/antonlukisha"><img src="https://img.shields.io/badge/-GitHub-333333?style=plastic&logo=GitHub&logoColor=white"></img></a>
-  <a target="_blank" href="https://t.me/lukanlo"><img src="https://img.shields.io/badge/-Telegram-0088CC?style=plastic&logo=Telegram&logoColor=white"></img></a>
-  <a target="_blank" href="https://stackoverflow.com/users/27875109/anton-lukisha"><img src="https://img.shields.io/badge/-StackOverflow-F48024?style=plastic&logo=StackOverflow&logoColor=white"></img></a>
-</p>
+
 
 
 ## :man_technologist: About Me :
