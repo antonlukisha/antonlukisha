@@ -16,7 +16,8 @@
   <img src="https://komarev.com/ghpvc/?username=antonlukisha&color=ce9927&style=flat-square&abbreviated=true"/>
   <br>
 </p>
-
+---
+<br>
 ## :man_technologist: About Me :
 
 - 🌍 **Location:** I'm based in Novosibirsk, Russia, and open to remote work opportunities.
@@ -26,9 +27,7 @@
 - ⚡ **Fun Fact:** I'm passionate about blending creativity with technical innovation in every project I work on.
 
 ---
-
-
-
+<br>
 
 ## :hammer_and_wrench:  Languages & tools :
 <p align="left">
@@ -76,7 +75,7 @@
 I'm diving deep into cloud computing with AWS, mastering microservices architecture, and continuously improving my skills in asynchronous programming with Java.
 
 ---
-
+<br>
 ## :fire: GitHub Stats:
 
 <div align="center">
@@ -84,3 +83,5 @@ I'm diving deep into cloud computing with AWS, mastering microservices architect
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antonlukisha&theme=github_dark" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=antonlukisha&theme=github_dark" />
 </div>
+---
+<br>
