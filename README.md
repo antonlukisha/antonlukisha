@@ -13,7 +13,7 @@
 <br>
 </p>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=antonlukisha&color=ce9927&style=flat-square&abbreviated=true"/>
+  <img src="https://komarev.com/ghpvc/?username=antonlukisha&color=green&style=flat-square&abbreviated=true"/>
 </p>
 
 ## :man_technologist: About Me :
