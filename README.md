@@ -79,7 +79,7 @@
 
 ## 🌱 Currently Learning :
 
-####### I'm upgrading my I have knowledge in the field of deep learning and continue to study disciplines at the university in the field of computer science.
+##### I'm upgrading my I have knowledge in the field of deep learning and continue to study disciplines at the university in the field of computer science.
 ---
 <br>
 
