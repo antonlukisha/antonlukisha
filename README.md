@@ -7,6 +7,7 @@
 <a target="_blank" href="mailto:anton.lukisha.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://github.com/antonlukisha/antonlukisha"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"></img></a>
 <a target="_blank" href="https://t.me/lukanlo"><img src="https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=Telegram&logoColor=white"></img></a>
+<a target="_blank" href="https://stackoverflow.com/users/27875109/anton-lukisha"><img src="https://img.shields.io/badge/-StackOverflow-27A7E7?style=for-the-badge&logo=StackOverflow&logoColor=white"></img></a>
 
 <br>
 </p>    
@@ -86,9 +87,9 @@
 
 ![](./1-repos-per-language.svg)
 
-```
+
 ![](https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
-```
+
 
     
 
@@ -96,9 +97,9 @@
 
 ![](./2-most-commit-language.svg)
 
-```
+
 ![](https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)
-```
+
 
     
 
@@ -106,9 +107,9 @@
 
 ![](./3-stats.svg)
 
-```
+
 ![](https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/github_dark/3-stats.svg)
-```
+
 
     
 
