@@ -71,7 +71,19 @@
 
 </p>
 
+## 🌱 Currently Learning:
 
+I'm diving deep into cloud computing with AWS, mastering microservices architecture, and continuously improving my skills in asynchronous programming with Java.
+
+---
+
+## 🏆 GitHub Stats:
+
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonlukisha&theme=github_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antonlukisha&theme=github_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=antonlukisha&theme=github_dark" />
+</div>
 ## :fire: My Stats :
 <div id="stat" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonlukisha&theme=github_dark" />
