@@ -42,7 +42,7 @@
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img title="Django" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img title="Docker" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img title="PyTorch" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" /></a>
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img title="Kafka" class="devicon-apachekafka-original-wordmark" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" /></a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img title="C#" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
     <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img title="Kotlin" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img title="Bootstrap" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
@@ -57,6 +57,8 @@
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img title="GNU Bash" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="36" height="36" alt="MySQL" /></a>
     <a href="https://unity.com/ru" target="_blank" rel="noreferrer"><img title="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="36" height="36" alt="Unity" /></a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" /></a>
+
 </p>
 
 
