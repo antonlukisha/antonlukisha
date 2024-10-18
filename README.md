@@ -19,21 +19,13 @@
 
 ## :man_technologist: About Me :
 
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  
-  <p>
-    <img src="https://img.shields.io/badge/🌍_Based_in-NOVOSIBIRSK-ff5722?style=for-the-badge&logo=city&logoColor=white">
-    <img src="https://img.shields.io/badge/✉️_Contact-anton.lukisha.dev@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white">
-    <img src="https://img.shields.io/badge/🧠_Learning_at-NSU-8a2be2?style=for-the-badge&logo=school&logoColor=white">
-  </p>
+- 🌍 **Location:** I'm based in Novosibirsk, Russia, and open to remote work opportunities.
+- 🧠 **Education:** Currently, I'm studying at NSU, constantly expanding my knowledge in Computer Science and Software Development.
+- ✉️ **Contact Me:** Reach out to me at [anton.lukisha.dev@gmail.com](mailto:anton.lukisha.dev@gmail.com).
+- 💡 **Personal Motto:** *"Always learning, always growing."*  
+- ⚡ **Fun Fact:** I'm passionate about blending creativity with technical innovation in every project I work on.
 
-  <p>
-    <b style="font-size: 1.2em;"> 🌍 I'm based in Novosibirsk </b> <br>
-    <b style="font-size: 1.2em;"> ✉️ You can contact me at <a href="mailto:anton.lukisha.dev@gmail.com" style="color: #0077ff;">anton.lukisha.dev@gmail.com</a> </b> <br>
-    <b style="font-size: 1.2em;"> 🧠 I'm currently learning at NSU </b> 
-  </p>
-
-</div>
+---
 
 
 
