@@ -1,37 +1,7 @@
-<style>
-  /* Анимация появления имени */
-  @keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-  }
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Anton+Lukisha;Backend+Developer;Enthusiast+Programmer;Always+Learning" alt="Typing SVG" />
+</p>
 
-  @keyframes blink-caret {
-    from, to { border-color: transparent; }
-    50% { border-color: black; }
-  }
-
-  .typing-effect {
-    font-family: 'Courier', monospace;
-    white-space: nowrap;
-    overflow: hidden;
-    border-right: .15em solid black;
-    width: 0;
-    animation: typing 3s steps(40, end), blink-caret .75s step-end infinite;
-    font-size: 2em;
-    text-align: center;
-    margin-top: 20px;
-  }
-</style>
-
-<!-- Добавим скрипт для эффектов -->
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    const nameElement = document.getElementById('name-effect');
-    setTimeout(() => {
-      nameElement.textContent = "Anton Lukisha"; // Ваше имя
-    }, 500); // Задержка перед началом анимации
-  });
-</script>
 
 <hr>
 <p align="center">
