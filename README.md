@@ -15,7 +15,9 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=antonlukisha&style=flat-square&color=green"/>
   <br>
-</p>    
+</p>
+
+## :man_technologist: About Me :
 
 * 🌍 I'm based in Novosibirsk
 * ✉️ You can contact me at [anton.lukisha.dev@gmail.com](mailto:anton.lukisha.dev@gmail.com)
@@ -75,5 +77,3 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=antonlukisha&theme=github_dark" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antonlukisha&theme=github_dark&utcOffset=8" />
 </div>
-
-## :man_technologist: About Me :
