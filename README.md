@@ -12,9 +12,9 @@
 <a target="_blank" href="https://github.com/antonlukisha/antonlukisha"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"></img></a>
 <a target="_blank" href="https://t.me/lukanlo"><img src="https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=Telegram&logoColor=white"></img></a>
 <a target="_blank" href="https://stackoverflow.com/users/27875109/anton-lukisha"><img src="https://img.shields.io/badge/-StackOverflow-EF8236?style=for-the-badge&logo=StackOverflow&logoColor=white"></img></a>
-<img src="https://komarev.com/ghpvc/?username=antonlukisha" flat="flat-square" color="blue"/>
-<br>
-  
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=antonlukisha" flat="flat-square" color="blue"/>
+  <br>
 </p>    
 
 * 🌍 I'm based in Novosibirsk
