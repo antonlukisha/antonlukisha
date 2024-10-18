@@ -77,18 +77,10 @@ I'm diving deep into cloud computing with AWS, mastering microservices architect
 
 ---
 
-## 🏆 GitHub Stats:
+## :fire: GitHub Stats:
 
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonlukisha&theme=github_dark" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antonlukisha&theme=github_dark" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=antonlukisha&theme=github_dark" />
-</div>
-## :fire: My Stats :
-<div id="stat" align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonlukisha&theme=github_dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antonlukisha&theme=github_dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antonlukisha&theme=github_dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=antonlukisha&theme=github_dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antonlukisha&theme=github_dark&utcOffset=8" />
 </div>
