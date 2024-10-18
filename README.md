@@ -16,8 +16,10 @@
   <img src="https://komarev.com/ghpvc/?username=antonlukisha&color=ce9927&style=flat-square&abbreviated=true"/>
   <br>
 </p>
+
 ---
 <br>
+
 ## :man_technologist: About Me :
 
 - 🌍 **Location:** I'm based in Novosibirsk, Russia, and open to remote work opportunities.
@@ -70,12 +72,16 @@
 
 </p>
 
+---
+<br>
+
 ## 🌱 Currently Learning:
 
 I'm diving deep into cloud computing with AWS, mastering microservices architecture, and continuously improving my skills in asynchronous programming with Java.
 
 ---
 <br>
+
 ## :fire: GitHub Stats:
 
 <div align="center">
