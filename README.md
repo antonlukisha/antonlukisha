@@ -75,3 +75,5 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=antonlukisha&theme=github_dark" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antonlukisha&theme=github_dark&utcOffset=8" />
 </div>
+
+## :man_technologist: About Me :
