@@ -22,7 +22,7 @@
 ## :man_technologist: About Me :
 
 - 🌍 **Location:** I'm based in Novosibirsk, Russia, and open to remote work opportunities.
-- 🧠 **Education:** Currently, I'm studying at NSU, constantly expanding my knowledge in Computer Science and Software Development.
+- 🧠 **Education:** Currently, I'm studying at NSU at 3rd course, constantly expanding my knowledge in Computer Science and Software Development.
 - ✉️ **Contact Me:** Reach out to me at [anton.lukisha.dev@gmail.com](mailto:anton.lukisha.dev@gmail.com).
 - 💡 **Personal Motto:** *"Always learning, always growing."*  
 - ⚡ **Fun Fact:** I'm passionate about blending creativity with technical innovation in every project I work on.
@@ -79,8 +79,7 @@
 
 ## 🌱 Currently Learning :
 
-I'm diving deep into cloud computing with AWS, mastering microservices architecture, and continuously improving my skills in asynchronous programming with Java.
-
+I'm upgrading my I have knowledge in the field of deep learning and continue to study disciplines at the university in the field of computer science.
 ---
 <br>
 
