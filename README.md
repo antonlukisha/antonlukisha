@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=45&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Anton;Backend+Developer;Enthusiast+Programmer;Always+Learning&repeat=true&cursor=true" alt="Typing SVG" />
 </p>
 
-## 📫 Let's Connect :
-
 <hr>
 <p align="center">
 <br>
@@ -17,8 +15,6 @@
 <br>
 </p>
 
----
-<br>
 
 ## :man_technologist: About Me :
 
