@@ -78,6 +78,15 @@ I'm diving deep into cloud computing with AWS, mastering microservices architect
 ---
 <br>
 
+## :rocket: Projects & Contributions:
+
+- **[Project Name](#):** A detailed description of one of your cool projects, explaining what it does and how it works.
+- **[Another Project](#):** Highlighting an innovative tool or software you've developed that solves a particular problem.
+- **Open Source Contributions:** Actively contributing to open source projects related to backend development and cloud infrastructure.
+
+---
+<br>
+
 ## :fire: GitHub Stats:
 
 <div align="center">
