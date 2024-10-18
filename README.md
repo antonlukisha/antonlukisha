@@ -19,17 +19,22 @@
 
 ## :man_technologist: About Me :
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NOVOSIBIRSK-🌍-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/CONTACT_ME-✉️-blue?style=flat-square&logo=gmail&logoColor=white">
-  <img src="https://img.shields.io/badge/LEARNING_AT-🧠_NSU-purple?style=flat-square">
-</p>
-
-- 🌍 **I'm based in Novosibirsk**
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   
-- ✉️ **You can contact me at** [anton.lukisha.dev@gmail.com](mailto:anton.lukisha.dev@gmail.com)
+  <p>
+    <img src="https://img.shields.io/badge/🌍_Based_in-NOVOSIBIRSK-ff5722?style=for-the-badge&logo=city&logoColor=white">
+    <img src="https://img.shields.io/badge/✉️_Contact-anton.lukisha.dev@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/🧠_Learning_at-NSU-8a2be2?style=for-the-badge&logo=school&logoColor=white">
+  </p>
 
-- 🧠 **I'm learning at NSU**
+  <p>
+    <b style="font-size: 1.2em;"> 🌍 I'm based in Novosibirsk </b> <br>
+    <b style="font-size: 1.2em;"> ✉️ You can contact me at <a href="mailto:anton.lukisha.dev@gmail.com" style="color: #0077ff;">anton.lukisha.dev@gmail.com</a> </b> <br>
+    <b style="font-size: 1.2em;"> 🧠 I'm currently learning at NSU </b> 
+  </p>
+
+</div>
+
 
 
 
