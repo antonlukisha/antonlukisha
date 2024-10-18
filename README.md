@@ -5,7 +5,7 @@
 <hr>
 <p align="center">
 <br>
-<a target="_blank" href="https://vk.com/lukanlo/"><img src="https://img.shields.io/badge/-VK-0077FF?style=social&logo=VK&logoColor=white"></img></a>
+<a target="_blank" href="https://vk.com/lukanlo/"><img src="https://img.shields.io/badge/-VK-0077FF?style=plastic&logo=VK&logoColor=white"></img></a>
 <a target="_blank" href="mailto:anton.lukisha.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://github.com/antonlukisha/antonlukisha"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"></img></a>
 <a target="_blank" href="https://t.me/lukanlo"><img src="https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=Telegram&logoColor=white"></img></a>
