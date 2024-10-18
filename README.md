@@ -97,7 +97,7 @@
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonlukisha&theme=github_dark" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antonlukisha&theme=github_dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=antonlukisha&theme=github_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=antonlukisha&theme=github_dark&font=Tahoma" />
 </div>
 
 ---
