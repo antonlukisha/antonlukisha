@@ -7,7 +7,7 @@
 <br>
 <a target="_blank" href="https://vk.com/lukanlo/"><img src="https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=VK&logoColor=white"></img></a>
 <a target="_blank" href="mailto:anton.lukisha.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://github.com/antonlukisha/antonlukisha"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"></img></a>
+<a target="_blank" href="https://github.com/antonlukisha/antonlukisha"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=white"></img></a>
 <a target="_blank" href="https://t.me/lukanlo"><img src="https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=Telegram&logoColor=white"></img></a>
 <a target="_blank" href="https://stackoverflow.com/users/27875109/anton-lukisha"><img src="https://img.shields.io/badge/-StackOverflow-EF8236?style=for-the-badge&logo=StackOverflow&logoColor=white"></img></a>
 <br>
@@ -15,15 +15,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=antonlukisha&color=green&style=flat-square&abbreviated=true"/>
 </p>
-
-<div style="font-family: 'Arial', sans-serif; font-size: 16px;">
-
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourtelegram)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
 
 
 ## :man_technologist: About Me :
