@@ -5,7 +5,7 @@
 <hr>
 <p align="center">
 <br>
-<a target="_blank" href="https://vk.com/lukanlo/"><img src="https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=VK&logoColor=white"></img></a>
+<a target="_blank" href="https://vk.com/lukanlo/"><img src="https://camo.githubusercontent.com/d6293f5f2dc1c1e9445d1d75057e27755ba9d36111bc42117aa7d304f9676fde/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f486162722d3632396662633f7374796c653d666f722d7468652d6261646765266c6f676f3d68616272266c6f676f436f6c6f723d7768697465" title="Habr" alt="Habr" data-canonical-src="https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=VK&logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" href="mailto:anton.lukisha.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://github.com/antonlukisha/antonlukisha"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=white"></img></a>
 <a target="_blank" href="https://t.me/lukanlo"><img src="https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=Telegram&logoColor=white"></img></a>
