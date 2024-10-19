@@ -15,7 +15,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=antonlukisha&color=green&style=flat-square&abbreviated=true"/>
   <a href="http://papertoilet.com" rel="nofollow">
-        <img src="https://camo.githubusercontent.com/95d2cb2586caec35fc1a7d0956f33e23b76862eac698a282849f9c63624a649b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d70747276737267267374796c653d666f722d7468652d626164676526636f6c6f723d303041413030" alt="View Count" title="View count (click for something interesting)" data-canonical-src="https://komarev.com/ghpvc/?username=ptrvsrg&amp;style=for-the-badge&amp;color=00AA00" style="max-width: 100%;">
+        <img alt="View Count" title="View count (click for something interesting)" src="https://komarev.com/ghpvc/?username=antonlukisha&amp;style=for-the-badge&amp;color=green" style="max-width: 100%;">
     </a>
 </p>
 
