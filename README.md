@@ -16,10 +16,14 @@
   <img src="https://komarev.com/ghpvc/?username=antonlukisha&color=green&style=flat-square&abbreviated=true"/>
 </p>
 
+<div style="font-family: 'Arial', sans-serif; font-size: 16px;">
+
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourtelegram)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
 
 
 ## :man_technologist: About Me :
