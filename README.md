@@ -15,7 +15,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=antonlukisha&color=green&style=flat-square&abbreviated=true"/>
   <a href="http://papertoilet.com" rel="nofollow">
-        <img alt="View Count" title="View count (click for something interesting)" src="https://komarev.com/ghpvc/?username=antonlukisha&amp;style=for-the-badge&amp;color=green" style="max-width: 100%;">
+        <img alt="View Count" title="View count" src="https://komarev.com/ghpvc/?username=antonlukisha&amp;style=for-the-badge&amp;color=0077FF" style="max-width: 100%;">
     </a>
 </p>
 
