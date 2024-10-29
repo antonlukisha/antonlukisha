@@ -23,8 +23,7 @@
 - 🌍 **Location:** I'm based in Novosibirsk, Russia, and open to remote work opportunities.
 - 🧠 **Education:** Currently, I'm studying at NSU at 3rd course, constantly expanding my knowledge in Computer Science and Software Development.
 - ✉️ **Contact Me:** Reach out to me at [anton.lukisha.dev@gmail.com](mailto:anton.lukisha.dev@gmail.com).
-- 💡 **Personal Motto:** *"Always learning, always growing."*  
-- ⚡ **Fun Fact:** I'm passionate about blending creativity with technical innovation in every project I work on.
+- 💡 **Personal Motto:** *"The Main Thing is to get started!"*  
 
 ---
 <br>
@@ -81,9 +80,7 @@
 
 ## :rocket: Projects & Contributions:
 
-- **[Project Name](#):** A detailed description of one of your cool projects, explaining what it does and how it works.
-- **[Another Project](#):** Highlighting an innovative tool or software you've developed that solves a particular problem.
-- **Open Source Contributions:** Actively contributing to open source projects related to backend development and cloud infrastructure.
+- **FridgeMate(#):** I'm currently full-cycle working on a full-stack project, which is a microservice-based web-application with integrated neural networks.
 
 ---
 <br>
