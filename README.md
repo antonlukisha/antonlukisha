@@ -73,7 +73,7 @@
 
 ## :rocket: Projects & Contributions:
 
-- **FridgeMate(#):** I'm currently full-cycle working on a full-stack project, which is a microservice-based web-application with integrated neural networks.
+- **FridgeMate:** I'm currently full-cycle working on a full-stack project, which is a microservice-based web-application with integrated neural networks.
 
 ---
 <br>
