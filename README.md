@@ -15,7 +15,7 @@
 <br>
 </p>
 
-<div id="header">
+<div id="header" align="center">
   <img src="https://github.com/antonlukisha/antonlukisha/blob/main/212750996-938b257b-266c-45a7-9af7-655341c0f58b-ezgif.com-crop.gif?raw=true" />
 </div>
 
