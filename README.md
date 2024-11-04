@@ -73,7 +73,7 @@
 
 ## :rocket: Projects & Contributions:
 
-- **FridgeMate:** I'm currently full-cycle working on a full-stack project, which is a microservice-based web-application with integrated neural networks.
+- **FridgeMate:** I'm currently full-cycle working on a web-application, which include a microservice-based structure with integrated neural networks. Now I finish backend part of this project.
 
 ---
 <br>
@@ -81,7 +81,6 @@
 ## :fire: GitHub Stats:
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonlukisha&theme=github_dark&font=Roboto" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonlukisha&theme=github_dark&font=Roboto&layout=donut" />
     <img src="https://github-readme-stats.vercel.app/api?username=antonlukisha&show_icons=true&theme=github_dark&font=Roboto" />
 </div>
