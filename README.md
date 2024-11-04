@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
-</div>
 <div>
   <p align="center" style="background-color: #333333; padding: 20px; border-radius: 10px;">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=45&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Anton;Backend+Developer;Enthusiast+Programmer;Always+Learning&repeat=true&cursor=true" alt="Typing SVG" />
@@ -22,6 +19,9 @@
         <img alt="View Count" title="View count" src="https://komarev.com/ghpvc/?username=antonlukisha&amp;style=for-the-badge&amp;color=EF8236" style="max-width: 100%;">
     </a>
 </p>
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+</div>
 
 ## :man_technologist: About Me :
 
