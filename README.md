@@ -1,4 +1,7 @@
-<div style="background-color: #333333; padding: 20px; border-radius: 10px;">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div>
   <p align="center" style="background-color: #333333; padding: 20px; border-radius: 10px;">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=45&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Anton;Backend+Developer;Enthusiast+Programmer;Always+Learning&repeat=true&cursor=true" alt="Typing SVG" />
   </p>
