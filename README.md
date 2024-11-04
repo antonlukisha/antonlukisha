@@ -59,7 +59,7 @@
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img title="GNU Bash" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
     <a href="https://unity.com/ru" target="_blank" rel="noreferrer"><img title="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="36" height="36" alt="Unity" /></a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" /></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img title="Docker" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gunicorn-colored.svg" width="36" height="36" alt="Docker" /></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img title="Docker" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/apache-colored.svg" width="36" height="36" alt="Docker" /></a>
 
 </p>
 
