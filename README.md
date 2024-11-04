@@ -15,9 +15,10 @@
 <br>
 </p>
 
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="clip-path: inset(20px 0 20px 0);" />
+<div id="header" style="overflow: hidden; height: 200px; width: 100%; display: flex; justify-content: center;">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="height: 100%; object-fit: cover;" />
 </div>
+
 
 <p align="left">
   <a rel="nofollow">
