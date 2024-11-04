@@ -16,7 +16,7 @@
 </p>
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="clip-path: inset(20px 0 20px 0);"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="clip-path: inset(100px 0 100px 0);"/>
 </div>
 <p align="left">
   <a rel="nofollow">
