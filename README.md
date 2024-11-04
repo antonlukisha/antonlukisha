@@ -14,15 +14,15 @@
 <a target="_blank" href="https://stackoverflow.com/users/27875109/anton-lukisha"><img src="https://img.shields.io/badge/-StackOverflow-EF8236?style=for-the-badge&logo=StackOverflow&logoColor=white"></img></a>
 <br>
 </p>
+
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+</div>
 <p align="left">
   <a rel="nofollow">
         <img alt="View Count" title="View count" src="https://komarev.com/ghpvc/?username=antonlukisha&amp;style=for-the-badge&amp;color=EF8236" style="max-width: 100%;">
     </a>
 </p>
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
-</div>
-
 ## :man_technologist: About Me :
 
 - 🌍 **Location:** I'm based in Novosibirsk, Russia, and open to remote work opportunities.
