@@ -1,4 +1,4 @@
-<p align="center" style="background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/75913514596649.5628670d31dfc.png'); background-size: cover; background-position: center; padding: 20px; border-radius: 10px;">
+<p align="center" style="background-color: #333333; padding: 20px; border-radius: 10px;">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=45&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Anton;Backend+Developer;Enthusiast+Programmer;Always+Learning&repeat=true&cursor=true" alt="Typing SVG" />
 </p>
 
