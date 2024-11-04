@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/antonlukisha/antonlukisha/blob/main/top.com-crop.gif?raw=true" />
+  <img src="https://github.com/antonlukisha/antonlukisha/blob/main/top.gif?raw=true" />
 </div>
 <div>
   <p align="center" style="background-color: #333333; padding: 20px; border-radius: 10px;">
