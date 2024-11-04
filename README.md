@@ -3,10 +3,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=45&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Anton;Backend+Developer;Enthusiast+Programmer;Always+Learning&repeat=true&cursor=true" alt="Typing SVG" />
   </p>
 </div>
-
+<div id="header" align="center">
+  <img src="https://github.com/antonlukisha/antonlukisha/blob/main/212750996-938b257b-266c-45a7-9af7-655341c0f58b-ezgif.com-crop.gif?raw=true" />
+</div>
 <hr>
 <p align="center">
 <br>
+<a rel="nofollow"><img alt="View Count" title="View count" src="https://komarev.com/ghpvc/?username=antonlukisha&amp;style=for-the-badge&amp;color=EF8236" style="max-width: 100%;"></a>
 <a target="_blank" href="https://vk.com/lukanlo/"><img src="https://img.shields.io/badge/-VKONTAKTE-0077FF?style=for-the-badge&logo=VK&logoColor=white"></img></a>
 <a target="_blank" href="mailto:anton.lukisha.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://github.com/antonlukisha/antonlukisha"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=white"></img></a>
@@ -15,16 +18,6 @@
 <br>
 </p>
 
-<div id="header" align="center">
-  <img src="https://github.com/antonlukisha/antonlukisha/blob/main/212750996-938b257b-266c-45a7-9af7-655341c0f58b-ezgif.com-crop.gif?raw=true" />
-</div>
-
-
-<p align="left">
-  <a rel="nofollow">
-        <img alt="View Count" title="View count" src="https://komarev.com/ghpvc/?username=antonlukisha&amp;style=for-the-badge&amp;color=EF8236" style="max-width: 100%;">
-    </a>
-</p>
 ## :man_technologist: About Me :
 
 - 🌍 **Location:** I'm based in Novosibirsk, Russia, and open to remote work opportunities.
