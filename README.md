@@ -83,7 +83,7 @@
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonlukisha&theme=github_dark&font=Roboto" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonlukisha&theme=github_dark&font=Roboto&layout=donut" />
-    <img src="https://github-readme-stats.vercel.app/api?username=antonlukisha&show_icons=true&font=Roboto" />
+    <img src="https://github-readme-stats.vercel.app/api?username=antonlukisha&show_icons=true&theme=github_dark&font=Roboto" />
 </div>
 
 ---
