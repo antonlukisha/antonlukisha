@@ -81,9 +81,9 @@
 ## :fire: GitHub Stats:
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonlukisha&theme=github_dark" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=antonlukisha" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antonlukisha&theme=github_dark&font=Tahoma" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonlukisha&theme=github_dark&font=Roboto" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=antonlukisha&theme=github_dark&font=Roboto" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antonlukisha&theme=github_dark&font=Roboto" />
 </div>
 
 ---
