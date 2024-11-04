@@ -1,12 +1,14 @@
 <div id="header" align="center">
-  <img src="https://github.com/antonlukisha/antonlukisha/blob/main/212750996-938b257b-266c-45a7-9af7-655341c0f58b-ezgif.com-crop.gif?raw=true" />
+  <img src="https://github.com/antonlukisha/antonlukisha/blob/main/top.com-crop.gif?raw=true" />
 </div>
 <div>
   <p align="center" style="background-color: #333333; padding: 20px; border-radius: 10px;">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=45&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Anton;Backend+Developer;Enthusiast+Programmer;Always+Learning&repeat=true&cursor=true" alt="Typing SVG" />
   </p>
 </div>
-
+<div id="header" align="center">
+  <img src="https://github.com/antonlukisha/antonlukisha/blob/main/bottom.gif?raw=true" />
+</div>
 <hr>
 <p align="center">
 <br>
