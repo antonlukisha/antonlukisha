@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/955223864109482020/CF92E0AF4E676FDE92024A89A4284E6A95ED6BBA/?imw=512&imh=288&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="100"/>
 </div>
 <div>
   <p align="center" style="background-color: #333333; padding: 20px; border-radius: 10px;">
