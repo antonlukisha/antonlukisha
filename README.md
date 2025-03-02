@@ -85,7 +85,9 @@
 
 ## :rocket: Projects & Contributions:
 
-- **FridgeMate:** I'm currently full-cycle working on a web-application, which include a microservice-based structure with integrated neural networks. Now I finish backend part of this project.
+- **FridgeMate**
+- **Neurofractal app**
+- **Seismic app**
 
 ---
 <br>
