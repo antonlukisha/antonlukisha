@@ -25,8 +25,8 @@
 
 ## :man_technologist: About Me :
 
-- 🌍 **Location:** I'm based in Novosibirsk, Russia, and open to remote work opportunities.
-- 🧠 **Education:** Currently, I'm studying at NSU at 3rd course, constantly expanding my knowledge in Computer Science and Software Development.
+- 🌍 **Location:** I'm based in Novosibirsk, Russia, and work in Akademgorodok.
+- 🧠 **Education:** Currently, I'm studying at NSU at 3rd course and working, constantly expanding my knowledge in Computer Science and Software Development.
 - ✉️ **Contact Me:** Reach out to me at [anton.lukisha.dev@gmail.com](mailto:anton.lukisha.dev@gmail.com).
 - 💡 **Personal Motto:** *"The Main Thing is to get started!"*  
 
@@ -77,17 +77,18 @@
 ---
 <br>
 
-## 🌱 Currently Learning :
+## 🌱 I'm Currently :
 
-- I'm upgrading my I have knowledge in the field of deep learning and continue to study disciplines at the university in the field of computer science.
+- I am studying and working, and I continue to develop in IT development.
 ---
 <br>
 
 ## :rocket: Projects & Contributions:
 
-- **FridgeMate**
+- **Work**
 - **Neurofractal app**
 - **Seismic app**
+- **PetHost**
 
 ---
 <br>
