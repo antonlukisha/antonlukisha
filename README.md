@@ -100,25 +100,7 @@
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonlukisha&theme=github_dark)
 
-[![wakatime](https://wakatime.com/badge/user/ВАШ-ID.svg)](https://wakatime.com/@ВАШ-ID)
-
-![Snake animation](https://github.com/antonlukisha/antonlukisha/blob/output/github-contribution-grid-snake.svg)
-
-[![3D Profile](https://github-profile-3d.vercel.app/antonlukisha)](https://github.com/antonlukisha)
-
-<div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Привет%20мир!&fontSize=60&animation=fadeIn)
-  
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonlukisha&show_icons=true&theme=radical)](https://github.com/antonlukisha)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonlukisha&layout=compact&theme=dracula)
-  
-  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=antonlukisha&theme=react-dark)
-  
-  ![Snake animation](https://github.com/antonlukisha/antonlukisha/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+![Custom Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=antonlukisha&theme=merko&layout=compact)
 
 ---
 <br>
