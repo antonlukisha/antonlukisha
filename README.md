@@ -98,7 +98,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=antonlukisha&show_icons=true&theme=github_dark&font=Roboto" />
 </div>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonlukisha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <br>
