@@ -98,7 +98,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonlukisha&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonlukisha&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonlukisha&theme=radical)
 
 ![Custom Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=antonlukisha&theme=radical&layout=compact)
 
