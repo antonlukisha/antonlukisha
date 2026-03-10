@@ -23,17 +23,17 @@
 <br>
 </p>
 
-## :man_technologist: About Me :
+## About Me :
 
-- 🌍 **Location:** I'm based in Novosibirsk, Russia, and work in Akademgorodok.
-- 🧠 **Education:** Currently, I'm studying at NSU at 3rd course and working, constantly expanding my knowledge in Computer Science and Software Development.
-- ✉️ **Contact Me:** Reach out to me at [anton.lukisha.dev@gmail.com](mailto:anton.lukisha.dev@gmail.com).
-- 💡 **Personal Motto:** *"The Main Thing is to get started!"*  
+- **Location:** I'm based in Novosibirsk, Russia, and work in Akademgorodok.
+- **Education:** Currently, I'm studying at NSU at 3rd course and working, constantly expanding my knowledge in Computer Science and Software Development.
+- **Contact Me:** Reach out to me at [anton.lukisha.dev@gmail.com](mailto:anton.lukisha.dev@gmail.com).
+- **Personal Motto:** *"The Main Thing is to get started!"*  
 
 ---
 <br>
 
-## :hammer_and_wrench:  Languages:
+## Languages:
 <p align="left">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img title="Python" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img title="JavaScript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -42,7 +42,7 @@
 
 <br>
 
-## :hammer_and_wrench:  Tools and frameworks:
+## Tools and frameworks:
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img title="React" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" /></a>
@@ -74,27 +74,9 @@
 ---
 <br>
 
-## 🌱 I'm Currently :
+## I'm Currently :
 
-- I am studying and working, and I continue to develop in IT development.
----
-<br>
-
-## :rocket: Projects & Contributions:
-
-- **Work**
-- **Neurofractal app**
-- **Seismic app**
-- **PetHost**
-
----
-<br>
-
-## :fire: GitHub Stats:
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonlukisha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonlukisha&theme=radical)
+- I continue to develop in IT.
 
 ---
 <br>
