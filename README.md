@@ -33,29 +33,30 @@
 ---
 <br>
 
-## :hammer_and_wrench:  Languages & tools :
+## :hammer_and_wrench:  Languages:
 <p align="left">
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" /></a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img title="Python" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img title="JavaScript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img title="Java" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+</p>
+---
+<br>
+## :hammer_and_wrench:  Tools and frameworks:
+<p align="left">
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img title="React" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" /></a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img title="Django" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer"><img title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="36" height="36" alt="Spring" /></a>
     <a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img title="Hibernate" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="36" height="36" alt="Hibernate" /></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/></a>
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img title="C" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="36" height="36" alt="C" /></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img title="JavaScript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="36" alt="Nodejs" /></a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img title="Python" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
     <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img title="JUnit" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="36" height="36" alt="JUnit" /></a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap" /></a>
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img title="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="36" height="36" alt="Jupyter" /></a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img title="PHP" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img title="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>
-    <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img title="Go" alt="Go" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img title="Vue" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img title="React" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img title="Django" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img title="Docker" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img title="PyTorch" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
     <a href="https://redis.io/?ref=kubedexcom/" target="_blank" rel="noreferrer"><img title="Redis" alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" width="36" /></a>
@@ -63,6 +64,7 @@
     <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" /></a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" /></a>
     <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img title="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" width="36" height="36" alt="NumPy" /></a>
+    <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img title="Prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original-wordmark.svg" width="36" height="36" alt="Prometheus" /></a>
     
 
 </p>
