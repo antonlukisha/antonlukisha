@@ -39,14 +39,16 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img title="JavaScript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img title="Java" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 </p>
----
+
 <br>
+
 ## :hammer_and_wrench:  Tools and frameworks:
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img title="React" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" /></a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img title="Django" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer"><img title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="36" height="36" alt="Spring" /></a>
+    <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"><img title="SQLAlchemy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="36" height="36" alt="SQLAlchemy" /></a>
     <a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img title="Hibernate" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="36" height="36" alt="Hibernate" /></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/></a>
@@ -64,7 +66,7 @@
     <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" /></a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" /></a>
     <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img title="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" width="36" height="36" alt="NumPy" /></a>
-    <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img title="Prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original-wordmark.svg" width="36" height="36" alt="Prometheus" /></a>
+    <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img title="Prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original-wordmark.svg" width="38" height="38" alt="Prometheus" /></a>
     
 
 </p>
