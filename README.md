@@ -26,8 +26,7 @@
 ## About Me :
 
 - **Location:** I'm based in Novosibirsk, Russia, and work in Akademgorodok.
-- **Education:** Currently, I'm studying at NSU at 3rd course and working, constantly expanding my knowledge in Computer Science and Software Development.
-- **Contact Me:** Reach out to me at [anton.lukisha.dev@gmail.com](mailto:anton.lukisha.dev@gmail.com).
+- **Education:** Currently, I'm studying at NSU at 4th course and working, constantly expanding my knowledge in Computer Science and Software Development.
 - **Personal Motto:** *"The Main Thing is to get started!"*  
 
 ---
