@@ -5,7 +5,7 @@
 
 <div>
   <p align="center" style="background-color: #333333; padding: 20px; border-radius: 10px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=45&pause=1200&color=cc44aa&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Anton;Fullstack+Developer&repeat=true&cursor=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=900&size=45&pause=1200&color=cc44aa&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Anton;Fullstack+Developer&repeat=true&cursor=true" alt="Typing SVG" />
   </p>
 </div>
 <div id="header" align="center">
@@ -23,7 +23,7 @@
 <br>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unbounded&pause=1000&color=CC44AA&width=435&lines=About+me" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=500&size=36&pause=1000&color=CC44AA&vCenter=true&repeat=false&width=435&lines=About+me" alt="Typing SVG" /></a>
 
 - **Location:** I'm based in Novosibirsk, Russia, and work in Akademgorodok.
 - **Education:** Currently, I'm studying at NSU at 4th course and working, constantly expanding my knowledge in Computer Science and Software Development.
@@ -32,7 +32,7 @@
 ---
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unbounded&pause=1000&color=CC44AA&width=435&lines=Languages" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=500&size=36&pause=1000&color=CC44AA&vCenter=true&repeat=false&width=435&lines=Languages" alt="Typing SVG" /></a>
 <p align="left">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img title="Python" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img title="JavaScript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -42,7 +42,7 @@
 ---
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unbounded&pause=1000&color=CC44AA&width=435&lines=Tools+and+framework" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=500&size=36&pause=1000&color=CC44AA&vCenter=true&repeat=false&width=435&lines=Tools+and+framework" alt="Typing SVG" /></a>
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img title="React" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" /></a>
@@ -72,7 +72,7 @@
 ---
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unbounded&pause=1000&color=CC44AA&width=435&lines=I'm+Currently" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=500&size=36&pause=1000&color=CC44AA&vCenter=true&repeat=false&width=435&lines=I'm+Currently" alt="Typing SVG" /></a>
 
 - I continue to develop in IT.
 
