@@ -23,7 +23,7 @@
 <br>
 </p>
 
-## About Me :
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Unbounded&size=24&pause=1000&color=cc44aa&vCenter=true&repeat=false&random=false&width=435&height=24&lines=About me)](https://git.io/typing-svg)
 
 - **Location:** I'm based in Novosibirsk, Russia, and work in Akademgorodok.
 - **Education:** Currently, I'm studying at NSU at 4th course and working, constantly expanding my knowledge in Computer Science and Software Development.
