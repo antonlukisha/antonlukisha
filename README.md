@@ -81,7 +81,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=500&size=36&pause=1000&color=CC44AA&vCenter=true&repeat=false&width=435&lines=Stats" alt="Typing SVG" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonlukisha" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonlukisha&hide=php,css,scss,html&theme=tokyonight" alt="stats" />
 
 ---
 <br>
