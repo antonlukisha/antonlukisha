@@ -42,7 +42,7 @@
 ---
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=500&size=36&pause=1000&color=CC44AA&vCenter=true&repeat=false&width=435&lines=Tools+and+framework" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=36&pause=1000&color=CC44AA&vCenter=true&repeat=false&width=435&lines=Tools+and+framework" alt="Typing SVG" /></a>
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img title="React" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" /></a>
@@ -75,6 +75,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=500&size=36&pause=1000&color=CC44AA&vCenter=true&repeat=false&width=435&lines=I'm+Currently" alt="Typing SVG" /></a>
 
 - I continue to develop in IT.
+
+---
+<br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=500&size=36&pause=1000&color=CC44AA&vCenter=true&repeat=false&width=435&lines=Stats" alt="Typing SVG" /></a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonlukisha" alt="stats" />
 
 ---
 <br>
