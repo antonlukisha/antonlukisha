@@ -43,7 +43,7 @@
 <br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=32&pause=1000&color=CC44AA&vCenter=true&repeat=false&width=435&lines=Tools+and+framework" alt="Typing SVG" /></a>
-<p align="left">
+<p display="flex" align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img title="React" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" /></a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img title="Django" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
